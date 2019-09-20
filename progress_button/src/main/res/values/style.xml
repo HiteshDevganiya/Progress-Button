@@ -1,0 +1,15 @@
+<resources>
+
+    <declare-styleable name="ProgressButton">
+        <attr name="button_text" format="string" />
+        <attr name="show_progress" format="boolean" />
+        <attr name="left_icon" format="reference" />
+        <attr name="card_color" format="color" />
+        <attr name="card_radius" format="dimension" />
+        <attr name="button_background" format="reference" />
+        <attr name="button_text_color" format="color" />
+        <attr name="button_text_size" format="dimension" />
+        <attr name="progress_color" format="color" />
+    </declare-styleable>
+
+</resources>
